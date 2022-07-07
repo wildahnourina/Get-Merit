@@ -1,0 +1,84 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Collectable
+  - Enemy
+  - PowerUp
+  - Health
+  - checkpoint
+  - Ground
+  - FallDetector
+  - ground
+  - obstacle
+  - movingPlatform
+  - newFall
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Ground
+  - Player
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: layer 1
+    uniqueID: 3585020879
+    locked: 0
+  - name: layer 2
+    uniqueID: 3566858905
+    locked: 0
+  - name: layer 3
+    uniqueID: 3052783599
+    locked: 0
+  - name: layer 4
+    uniqueID: 3231909165
+    locked: 0
+  - name: layer 5
+    uniqueID: 3627265327
+    locked: 0
+  - name: layer 6
+    uniqueID: 539746609
+    locked: 0
+  - name: layer 7
+    uniqueID: 107295033
+    locked: 0
+  - name: ' layer 8'
+    uniqueID: 743487003
+    locked: 0
+  - name: entity
+    uniqueID: 3012159145
+    locked: 0
+  - name: layer 9
+    uniqueID: 182621365
+    locked: 0

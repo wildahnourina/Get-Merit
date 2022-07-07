@@ -1,0 +1,516 @@
+fileFormatVersion: 2
+guid: 7f664583f10c6ea43b3a65608a629165
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8178722568716508807
+    second: Timer_Coin_Numbers_Outlined (8 x 8)_0
+  - first:
+      213: 5823981534189145066
+    second: Timer_Coin_Numbers_Outlined (8 x 8)_1
+  - first:
+      213: 9172626581531227446
+    second: Timer_Coin_Numbers_Outlined (8 x 8)_2
+  - first:
+      213: -2141391010135958314
+    second: Timer_Coin_Numbers_Outlined (8 x 8)_3
+  - first:
+      213: -4314867395273293155
+    second: Timer_Coin_Numbers_Outlined (8 x 8)_4
+  - first:
+      213: 3584181931500153282
+    second: Timer_Coin_Numbers_Outlined (8 x 8)_5
+  - first:
+      213: 7725016781237455017
+    second: Timer_Coin_Numbers_Outlined (8 x 8)_6
+  - first:
+      213: 6000683267804170919
+    second: Timer_Coin_Numbers_Outlined (8 x 8)_7
+  - first:
+      213: 234778283481131102
+    second: Timer_Coin_Numbers_Outlined (8 x 8)_8
+  - first:
+      213: -9192353142244506306
+    second: Timer_Coin_Numbers_Outlined (8 x 8)_9
+  - first:
+      213: -2954926436649817452
+    second: Timer_Coin_Numbers_Outlined (8 x 8)_10
+  - first:
+      213: -8034647402910079897
+    second: Timer_Coin_Numbers_Outlined (8 x 8)_11
+  - first:
+      213: -8360072238063236257
+    second: Timer_Coin_Numbers_Outlined (8 x 8)_12
+  - first:
+      213: 3780371302026590150
+    second: Timer_Coin_Numbers_Outlined (8 x 8)_13
+  - first:
+      213: -7258042315808221055
+    second: Timer_Coin_Numbers_Outlined (8 x 8)_14
+  - first:
+      213: -6156255865906624910
+    second: Timer_Coin_Numbers_Outlined (8 x 8)_15
+  - first:
+      213: 7700680489690005662
+    second: Timer_Coin_Numbers_Outlined (8 x 8)_16
+  - first:
+      213: -3107755305553843832
+    second: Timer_Coin_Numbers_Outlined (8 x 8)_17
+  - first:
+      213: -8135850304288159809
+    second: Timer_Coin_Numbers_Outlined (8 x 8)_18
+  - first:
+      213: -7513326533776764202
+    second: Timer_Coin_Numbers_Outlined (8 x 8)_19
+  - first:
+      213: -8260508637118954652
+    second: Timer_Coin_Numbers_Outlined (8 x 8)_20
+  - first:
+      213: 9018858829425200632
+    second: Timer_Coin_Numbers_Outlined (8 x 8)_21
+  - first:
+      213: -160014532719431819
+    second: Timer_Coin_Numbers_Outlined (8 x 8)_22
+  - first:
+      213: 4851806385163445242
+    second: Timer_Coin_Numbers_Outlined (8 x 8)_23
+  - first:
+      213: 2760930731723698867
+    second: Timer_Coin_Numbers_Outlined (8 x 8)_24
+  - first:
+      213: -6182727311114973708
+    second: Timer_Coin_Numbers_Outlined (8 x 8)_25
+  - first:
+      213: 7367749085345880865
+    second: Timer_Coin_Numbers_Outlined (8 x 8)_26
+  - first:
+      213: 7733715999791066859
+    second: Timer_Coin_Numbers_Outlined (8 x 8)_27
+  - first:
+      213: -3026203892756342245
+    second: Timer_Coin_Numbers_Outlined (8 x 8)_28
+  - first:
+      213: 1839249896957360595
+    second: Timer_Coin_Numbers_Outlined (8 x 8)_29
+  - first:
+      213: -5312478335822753317
+    second: Timer_Coin_Numbers_Outlined (8 x 8)_30
+  - first:
+      213: 1900398629137636431
+    second: Timer_Coin_Numbers_Outlined (8 x 8)_31
+  - first:
+      213: -4178505716258380714
+    second: Timer_Coin_Numbers_Outlined (8 x 8)_32
+  - first:
+      213: -1892316243442138074
+    second: Timer_Coin_Numbers_Outlined (8 x 8)_33
+  - first:
+      213: 3760507981503894616
+    second: Timer_Coin_Numbers_Outlined (8 x 8)_34
+  - first:
+      213: -7276319175936560989
+    second: Timer_Coin_Numbers_Outlined (8 x 8)_35
+  - first:
+      213: -3568899131295975427
+    second: Timer_Coin_Numbers_Outlined (8 x 8)_36
+  - first:
+      213: -1391318675984048336
+    second: Timer_Coin_Numbers_Outlined (8 x 8)_37
+  - first:
+      213: -9016142138118856368
+    second: Timer_Coin_Numbers_Outlined (8 x 8)_38
+  - first:
+      213: 2135119715123029830
+    second: Timer_Coin_Numbers_Outlined (8 x 8)_39
+  - first:
+      213: -3326989849900931507
+    second: Timer_Coin_Numbers_Outlined (8 x 8)_40
+  - first:
+      213: 5106734442290185634
+    second: Timer_Coin_Numbers_Outlined (8 x 8)_41
+  - first:
+      213: -3222264406447827606
+    second: Timer_Coin_Numbers_Outlined (8 x 8)_42
+  - first:
+      213: 8678350777100736037
+    second: Timer_Coin_Numbers_Outlined (8 x 8)_43
+  - first:
+      213: -5462415883582168021
+    second: Timer_Coin_Numbers_Outlined (8 x 8)_44
+  - first:
+      213: 2166197679112689243
+    second: Timer_Coin_Numbers_Outlined (8 x 8)_45
+  - first:
+      213: 5054078036589717205
+    second: Timer_Coin_Numbers_Outlined (8 x 8)_46
+  - first:
+      213: 4034771979927671633
+    second: Timer_Coin_Numbers_Outlined (8 x 8)_47
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Timer_Coin_Numbers_Outlined (8 x 8)_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 8
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78e51d0f7d8a08170800000000000000
+      internalID: 8178722568716508807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Timer_Coin_Numbers_Outlined (8 x 8)_1
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 8
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aeb47cb3950f2d050800000000000000
+      internalID: 5823981534189145066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Timer_Coin_Numbers_Outlined (8 x 8)_2
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 8
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6357979f647bb4f70800000000000000
+      internalID: 9172626581531227446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Timer_Coin_Numbers_Outlined (8 x 8)_3
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 8
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6dc91abc8304842e0800000000000000
+      internalID: -2141391010135958314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Timer_Coin_Numbers_Outlined (8 x 8)_4
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 8
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9202d317f28e14c0800000000000000
+      internalID: -4314867395273293155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Timer_Coin_Numbers_Outlined (8 x 8)_5
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 8
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c9a0751a729db130800000000000000
+      internalID: 3584181931500153282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Timer_Coin_Numbers_Outlined (8 x 8)_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a8079965d5c43b60800000000000000
+      internalID: 7725016781237455017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Timer_Coin_Numbers_Outlined (8 x 8)_7
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 0
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7aa091b93a5b64350800000000000000
+      internalID: 6000683267804170919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Timer_Coin_Numbers_Outlined (8 x 8)_8
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 0
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e586edbda99124300800000000000000
+      internalID: 234778283481131102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Timer_Coin_Numbers_Outlined (8 x 8)_9
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 0
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e35029235833e6080800000000000000
+      internalID: -9192353142244506306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Timer_Coin_Numbers_Outlined (8 x 8)_10
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 0
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49aa31ecf0efdf6d0800000000000000
+      internalID: -2954926436649817452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Timer_Coin_Numbers_Outlined (8 x 8)_11
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 0
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 764a706a1c23f7090800000000000000
+      internalID: -8034647402910079897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
